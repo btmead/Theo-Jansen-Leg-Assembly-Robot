@@ -1,5 +1,6 @@
 \# MENG2147 Walking Robot
 
+https://github.com/user-attachments/assets/caa362a3-735c-47f6-9e61-454edf47af03
 
 
 A SolidWorks, MATLAB, and Arduino-based walking robot project developed for MENG2147. The project combined mechanical linkage design, motion analysis, bill-of-materials planning, and embedded motor control.
@@ -49,10 +50,7 @@ This project designed and analysed a multi-leg walking mechanism driven through 
 \## Mechanical Design
 
 
-
-Include image here:
-
-!\[Four-leg mechanism](Media/Four Legs.png)
+<img width="450" height="350" alt="Four_Legs" src="https://github.com/user-attachments/assets/05916689-5e7a-4e05-9aea-61dd5f72aa3c" />
 
 
 
@@ -64,9 +62,8 @@ Tasked with building a robot which used the Theo Jansen leg linkage we designed 
 
 
 
-Include plot:
 
-!\[Leg trace](Media/Two Legs With Trace.png)
+<img width="450" height="300" alt="Two_legs_withTrace" src="https://github.com/user-attachments/assets/b349d10f-9523-42af-9372-29eddfff54fa" />
 
 
 
